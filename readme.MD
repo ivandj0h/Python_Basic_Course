@@ -7,7 +7,7 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 ### Installation
 install Python 3.8 on Ubuntu 18.04 or Ubuntu 20.04.
 
-Option 1: Install Python 3 Using apt (Easier)
+Install Python 3 Using apt (Easier)
 Open a terminal window, and enter the following:
 
 1. Update and Refresh Repository Lists
