@@ -16,3 +16,10 @@ print()
 print('Hello {name}, {greeting}'.format(greeting = 'Goodmorning', name = 'John'))
 print()
 
+# To allow flexibility, we might want to take the input from the user. In Python, we have the input() function to allow this. The syntax for input() is:
+num = input('Enter a number: ')
+print(num)
+
+# When our program grows bigger, it is a good idea to break it into different modules.
+import math
+print('this is pi number:', math.pi)
