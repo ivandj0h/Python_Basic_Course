@@ -28,6 +28,9 @@ Open a terminal window, and enter the following:
 Allow the process to complete and verify the Python version was installed sucessfully :
 ``` python ––version```
 
+
+[![Run on Repl.it](https://repl.it/badge/github/ivandi1980/Python_Basic_Course)](https://repl.it/github/ivandi1980/Python_Basic_Course)
+
 -------------------
 ``` This docs would be update regularly...```
 
